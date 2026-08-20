@@ -1,5 +1,5 @@
 - ***Java Backend Developer***
 
-- NRNU MEPhI (2024–now)
+- ***NRNU MEPhI (2024–now)***
 
-- languages: RU, EN
+- ***languages: RU, EN***
