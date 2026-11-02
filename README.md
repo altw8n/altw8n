@@ -2,4 +2,4 @@
 
 - ***languages: RU, EN***
 
-- ***Stack: Java, Python, C, C++, SQL***
+- ***Stack: Java, Kotlin, Python, C, C++, SQL***
